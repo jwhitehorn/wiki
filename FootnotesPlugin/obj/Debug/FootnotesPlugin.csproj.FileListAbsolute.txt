@@ -1,0 +1,16 @@
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\FootnotesPlugin.XML
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\FootnotesPlugin.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\FootnotesPlugin.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.PluginFramework.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.SearchEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.AclEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.PluginFramework.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.PluginFramework.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.SearchEngine.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.SearchEngine.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.AclEngine.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\bin\Debug\ScrewTurn.Wiki.AclEngine.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\obj\Debug\FootnotesPlugin.csproj.CoreCompileInputs.cache
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\obj\Debug\FootnotesPlugin.csproj.CopyComplete
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\obj\Debug\FootnotesPlugin.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\FootnotesPlugin\obj\Debug\FootnotesPlugin.pdb

@@ -1,0 +1,15 @@
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\RatingManagerPlugin.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\RatingManagerPlugin.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.PluginFramework.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.SearchEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.AclEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.PluginFramework.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.PluginFramework.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.SearchEngine.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.SearchEngine.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.AclEngine.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\bin\Debug\ScrewTurn.Wiki.AclEngine.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\obj\Debug\RatingManagerPlugin.csproj.CoreCompileInputs.cache
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\obj\Debug\RatingManagerPlugin.csproj.CopyComplete
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\obj\Debug\RatingManagerPlugin.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\RatingManagerPlugin\obj\Debug\RatingManagerPlugin.pdb

@@ -1,0 +1,14 @@
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.PluginFramework.XML
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.PluginFramework.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.PluginFramework.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.AclEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.SearchEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.AclEngine.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.AclEngine.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.SearchEngine.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\bin\Debug\ScrewTurn.Wiki.SearchEngine.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\obj\Debug\PluginFramework.csprojAssemblyReference.cache
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\obj\Debug\PluginFramework.csproj.CoreCompileInputs.cache
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\obj\Debug\PluginFramework.csproj.CopyComplete
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\obj\Debug\ScrewTurn.Wiki.PluginFramework.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\PluginFramework\obj\Debug\ScrewTurn.Wiki.PluginFramework.pdb

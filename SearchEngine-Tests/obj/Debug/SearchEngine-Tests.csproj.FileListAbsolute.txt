@@ -1,0 +1,14 @@
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\ScrewTurn.Wiki.SearchEngine.Tests.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\ScrewTurn.Wiki.SearchEngine.Tests.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\nunit.framework.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\Rhino.Mocks.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\ScrewTurn.Wiki.SearchEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\ScrewTurn.Wiki.SearchEngine.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\ScrewTurn.Wiki.SearchEngine.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\nunit.framework.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\bin\Debug\Rhino.Mocks.xml
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\obj\Debug\SearchEngine-Tests.csprojAssemblyReference.cache
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\obj\Debug\SearchEngine-Tests.csproj.CoreCompileInputs.cache
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\obj\Debug\SearchEngine-Tests.csproj.CopyComplete
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\obj\Debug\ScrewTurn.Wiki.SearchEngine.Tests.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine-Tests\obj\Debug\ScrewTurn.Wiki.SearchEngine.Tests.pdb

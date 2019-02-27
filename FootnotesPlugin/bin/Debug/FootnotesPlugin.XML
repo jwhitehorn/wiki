@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FootnotesPlugin</name>
+    </assembly>
+    <members>
+        <member name="T:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes">
+            <summary>
+            Implements a footnotes plugin.
+            </summary>
+        </member>
+        <member name="M:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.Init(ScrewTurn.Wiki.PluginFramework.IHostV30,System.String)">
+            <summary>
+            Initializes the Storage Provider.
+            </summary>
+            <param name="host">The Host of the Component.</param>
+            <param name="config">The Configuration data, if any.</param>
+            <exception cref="T:System.ArgumentNullException">If <paramref name="host"/> or <paramref name="config"/> are <c>null</c>.</exception>
+            <exception cref="T:ScrewTurn.Wiki.PluginFramework.InvalidConfigurationException">If <paramref name="config"/> is not valid or is incorrect.</exception>
+        </member>
+        <member name="M:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.Format(System.String,ScrewTurn.Wiki.PluginFramework.ContextInformation,ScrewTurn.Wiki.PluginFramework.FormattingPhase)">
+            <summary>
+            Performs a Formatting phase.
+            </summary>
+            <param name="raw">The raw content to Format.</param>
+            <param name="context">The Context information.</param>
+            <param name="phase">The Phase.</param>
+            <returns>The Formatted content.</returns>
+        </member>
+        <member name="P:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.PerformPhase1">
+            <summary>
+            Specifies whether or not to execute Phase 1.
+            </summary>
+        </member>
+        <member name="P:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.PerformPhase2">
+            <summary>
+            Specifies whether or not to execute Phase 2.
+            </summary>
+        </member>
+        <member name="P:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.PerformPhase3">
+            <summary>
+            Specifies whether or not to execute Phase 3.
+            </summary>
+        </member>
+        <member name="P:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.ExecutionPriority">
+            <summary>
+            Gets the execution priority of the provider (0 lowest, 100 highest).
+            </summary>
+        </member>
+        <member name="M:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.PrepareTitle(System.String,ScrewTurn.Wiki.PluginFramework.ContextInformation)">
+            <summary>
+            Prepares the title of an item for display (always during phase 3).
+            </summary>
+            <param name="title">The input title.</param>
+            <param name="context">The context information.</param>
+            <returns>The prepared title (no markup allowed).</returns>
+        </member>
+        <member name="M:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.Shutdown">
+            <summary>
+            Method invoked on shutdown.
+            </summary>
+            <remarks>This method might not be invoked in some cases.</remarks>
+        </member>
+        <member name="P:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.Information">
+            <summary>
+            Gets the Information about the Provider.
+            </summary>
+        </member>
+        <member name="P:ScrewTurn.Wiki.Plugins.PluginPack.Footnotes.ConfigHelpHtml">
+            <summary>
+            Gets a brief summary of the configuration string format, in HTML. Returns <c>null</c> if no configuration is needed.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine\bin\Debug\ScrewTurn.Wiki.SearchEngine.XML
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine\bin\Debug\ScrewTurn.Wiki.SearchEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine\bin\Debug\ScrewTurn.Wiki.SearchEngine.pdb
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine\obj\Debug\ScrewTurn.Wiki.SearchEngine.dll
+Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\SearchEngine\obj\Debug\ScrewTurn.Wiki.SearchEngine.pdb
