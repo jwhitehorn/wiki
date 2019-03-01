@@ -1,7 +1,0 @@
-Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\AclEngine\bin\Debug\ScrewTurn.Wiki.AclEngine.XML
-Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\AclEngine\bin\Debug\ScrewTurn.Wiki.AclEngine.dll
-Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\AclEngine\bin\Debug\ScrewTurn.Wiki.AclEngine.pdb
-Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\AclEngine\obj\Debug\AclEngine.csprojAssemblyReference.cache
-Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\AclEngine\obj\Debug\AclEngine.csproj.CoreCompileInputs.cache
-Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\AclEngine\obj\Debug\ScrewTurn.Wiki.AclEngine.dll
-Z:\Downloads\screwturn-screwturn-wiki-ae1c57b70ac6\AclEngine\obj\Debug\ScrewTurn.Wiki.AclEngine.pdb
