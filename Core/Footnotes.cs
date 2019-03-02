@@ -5,7 +5,7 @@ using System.Text;
 using ScrewTurn.Wiki.PluginFramework;
 using System.Text.RegularExpressions;
 
-namespace ScrewTurn.Wiki.Plugins.PluginPack {
+namespace ScrewTurn.Wiki {
 
 	/// <summary>
 	/// Implements a footnotes plugin.

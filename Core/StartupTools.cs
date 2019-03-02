@@ -115,29 +115,32 @@ namespace ScrewTurn.Wiki {
 			Collectors.DisabledCacheProviderCollector = new ProviderCollector<ICacheProviderV30>();
 
 			// Load built-in providers
+            var providers = new IProviderV30[] {
+                new FilesStorageProvider(),
+                new UsersStorageProvider(),
+                new Footnotes()
+            };
+            foreach(var provider in providers) {
+                var isDisabled = ProviderLoader.IsDisabled(provider.GetType().FullName);
+                if (!isDisabled) {
+                    provider.Init(Host.Instance, "");
+                    Log.LogEntry("Provider " + provider.Information.Name + " loaded (Enabled)", EntryType.General, Log.SystemUsername);
+                } else {
+                    Log.LogEntry("Provider " + provider.Information.Name + " loaded (Disabled)", EntryType.General, Log.SystemUsername);
+                }
+                if(provider is IUsersStorageProviderV30) {
+                    (isDisabled ? Collectors.DisabledUsersProviderCollector : Collectors.UsersProviderCollector).AddProvider(provider as IUsersStorageProviderV30);
+                }else if(provider is IPagesStorageProviderV30) {
+                    (isDisabled ? Collectors.DisabledPagesProviderCollector : Collectors.PagesProviderCollector).AddProvider(provider as IPagesStorageProviderV30);
+                }else if(provider is IFilesStorageProviderV30) {
+                    (isDisabled ? Collectors.DisabledFilesProviderCollector : Collectors.FilesProviderCollector).AddProvider(provider as IFilesStorageProviderV30);
+                }else if(provider is IFormatterProviderV30) {
+                    (isDisabled ? Collectors.DisabledFormatterProviderCollector : Collectors.FormatterProviderCollector).AddProvider(provider as IFormatterProviderV30);
+                }else if(provider is ICacheProviderV30) {
+                    (isDisabled ? Collectors.DisabledCacheProviderCollector : Collectors.CacheProviderCollector).AddProvider(provider as ICacheProviderV30);
+                }
+            }
 
-			// Files storage providers have to be loaded BEFORE users storage providers in order to properly set permissions
-			FilesStorageProvider f = new FilesStorageProvider();
-			if(!ProviderLoader.IsDisabled(f.GetType().FullName)) {
-				f.Init(Host.Instance, "");
-				Collectors.FilesProviderCollector.AddProvider(f);
-				Log.LogEntry("Provider " + f.Information.Name + " loaded (Enabled)", EntryType.General, Log.SystemUsername);
-			}
-			else {
-				Collectors.DisabledFilesProviderCollector.AddProvider(f);
-				Log.LogEntry("Provider " + f.Information.Name + " loaded (Disabled)", EntryType.General, Log.SystemUsername);
-			}
-
-			UsersStorageProvider u = new UsersStorageProvider();
-			if(!ProviderLoader.IsDisabled(u.GetType().FullName)) {
-				u.Init(Host.Instance, "");
-				Collectors.UsersProviderCollector.AddProvider(u);
-				Log.LogEntry("Provider " + u.Information.Name + " loaded (Enabled)", EntryType.General, Log.SystemUsername);
-			}
-			else {
-				Collectors.DisabledUsersProviderCollector.AddProvider(u);
-				Log.LogEntry("Provider " + u.Information.Name + " loaded (Disabled)", EntryType.General, Log.SystemUsername);
-			}
 
 			// Load Users (pages storage providers might need access to users/groups data for upgrading from 2.0 to 3.0)
 			ProviderLoader.FullLoad(true, false, false, false, false);

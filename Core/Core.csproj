@@ -94,6 +94,7 @@
     <Compile Include="FileDocument.cs" />
     <Compile Include="FilesAndAttachments.cs" />
     <Compile Include="FilesStorageProvider.cs" />
+    <Compile Include="Footnotes.cs" />
     <Compile Include="Formatter.cs" />
     <Compile Include="FormattingPipeline.cs" />
     <Compile Include="Hash.cs" />
